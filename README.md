@@ -1,4 +1,4 @@
-# PTU_Project_5: Exploration of New Approaches for Defining and Evaluating a Family of Repeated Regions by Alignment Using UniProt Annotations and AlphaFold Predictions
+# Exploration of New Approaches for Defining and Evaluating a Family of Repeated Regions by Alignment Using UniProt Annotations and AlphaFold Predictions
 
 ## Overview
 WD repeats form one of the largest fold families in humans, with over 2,000 instances across 300 different proteins. These repeated regions assemble into a three-dimensional globular structure known as a beta-propeller, featuring 4 to 8 blades depending on the repeat families. Due to their high sequence variability, WD repeats are challenging to characterize and classify, leading to frequent annotation errors in the UniProt database.
