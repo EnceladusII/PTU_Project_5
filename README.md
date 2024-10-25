@@ -25,7 +25,33 @@ This project is divided into several key tasks:
 ## Potential Collaboration
 Collaboration with **Project 3** is possible, allowing the exploration of further methods and perspectives for redefining the boundaries of beta-propellers formed by WD repeats.
 
-## laboratory workspaces
+## Abbréviation utilisé
+AAs --> Acides Aminés
+
+
+## Cahier de laboratoire
+    Format : 
+    {**AAAA-MM-DD :**  
+    "contenu"}
+
+**2024-10-19 :**  
+Production des premier alignements à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté.  
+Ces alignements ont été obtenu grâce à la version web en ligne de clustalΩ disponible à cette adresse : " https://www.ebi.ac.uk/jdispatcher/msa/clustalo " .  Les paramètres d'entrée ont été laissés par défaut sur le site sauf pour le format qui à été changé vers le format FASTA.  
+
+(PARAMETRES UTILISEES :
+  - OUTPUT FORMAT : Pearson/FASTA
+  - DEALIGN INPUT : NO
+  - MBED-LIKE CLUSTERING GUIDE-TREE : yes
+  - MBED-LIKE CLUSTERING ITERATION : yes
+  - COMBINED ITERATIONS : default(0)
+  - MAX GUIDE TREE : default
+  - MAX HMM ITERATIONS : default
+  - ORDER : aligned
+  - DISTANCE MATRIX : no
+  - OUTPUT GUIDE TREE : yes )  
+
+Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0. 
+À cette étape du projet, aucune conclusion ni correction n'a été apporté vis-à-vis de ces alignements.
 
 ---
 
