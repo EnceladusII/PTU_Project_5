@@ -25,6 +25,8 @@ This project is divided into several key tasks:
 ## Potential Collaboration
 Collaboration with **Project 3** is possible, allowing the exploration of further methods and perspectives for redefining the boundaries of beta-propellers formed by WD repeats.
 
+## laboratory workspaces
+
 ---
 
 For detailed guidance or troubleshooting, please refer to the full project documentation or contact the project lead.
