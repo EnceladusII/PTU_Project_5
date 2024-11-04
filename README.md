@@ -31,11 +31,13 @@ AAs --> Acides Aminés
 
 ## Cahier de laboratoire
     Format : 
-    {**AAAA-MM-DD :**  
+    {**AAAA-MM-DD :**
+    travail excécuté par :
     "contenu"}
 
-**2024-10-19 :**  
-Production des premier alignements à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté.  
+**2024-10-19 :** 
+Travail excecuté par : MOSER Mathilda
+Production des premier alignements à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté. Les fichiers de sorties sont réorganisés
 Ces alignements ont été obtenu grâce à la version web en ligne de clustalΩ disponible à cette adresse : " https://www.ebi.ac.uk/jdispatcher/msa/clustalo " .  Les paramètres d'entrée ont été laissés par défaut sur le site sauf pour le format qui à été changé vers le format FASTA.  
 
 (PARAMETRES UTILISEES :
@@ -52,6 +54,15 @@ Ces alignements ont été obtenu grâce à la version web en ligne de clustalΩ 
 
 Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0. 
 À cette étape du projet, aucune conclusion ni correction n'a été apporté vis-à-vis de ces alignements.
+
+**2024-10-29**
+Travail excecuté par : Wittenmeyer Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda 
+Production de nouveaux alignements en utilisant MAFFT. Nous avons générés, pour chaque fichier d'entrée, deux fichiers de sorties. Le premier fichier de sortie possèdent l'ordre du fichier d'entrée. l'ordre des séquence à été réorganisé automatiquement pour le deuxième fichier. 
+Ces étapes ont été réalises à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté.
+
+**2024-10-29**
+Travail excecuté par : Wittenmeyer Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda
+A partir de l'alignement ne possédant pas les AAs supplémentaire, nous avons essayer de trouver des résidus fortements conservés, nosu avons principalement trouvés des résidues hydrophobes, apolaires et non ionisables (Val, Leu, Ile, Gly)
 
 ---
 
