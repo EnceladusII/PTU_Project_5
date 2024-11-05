@@ -56,12 +56,12 @@ Les résultats ont été obtenues au format FASTA et on été visualisé en util
 À cette étape du projet, aucune conclusion ni correction n'a été apporté vis-à-vis de ces alignements.
 
 **2024-10-29**  
-Travail excecuté par : Wittenmeyer Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
+Travail excecuté par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
 Production de nouveaux alignements en utilisant MAFFT. Nous avons générés, pour chaque fichier d'entrée, deux fichiers de sorties. Le premier fichier de sortie possèdent l'ordre du fichier d'entrée. l'ordre des séquence à été réorganisé automatiquement pour le deuxième fichier. 
 Ces étapes ont été réalises à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté.
 
 **2024-10-29**  
-Travail excecuté par : Wittenmeyer Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
+Travail excecuté par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
 A partir de l'alignement ne possédant pas les AAs supplémentaire, nous avons essayer de trouver des résidus fortements conservés, nosu avons principalement trouvés des résidues hydrophobes, apolaires et non ionisables (Val, Leu, Ile, Gly)
 
 ---
