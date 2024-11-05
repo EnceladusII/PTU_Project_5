@@ -55,6 +55,19 @@ Ces alignements ont été obtenu grâce à la version web en ligne de clustalΩ 
 Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0. 
 À cette étape du projet, aucune conclusion ni correction n'a été apporté vis-à-vis de ces alignements.
 
+**2024-10-29**
+Travail executé par : WITTENMEYER Guillaume
+Pour comparer avec avec l'alignement de clustalΩ, génération d'alignement de ces séquences grâce au programme MAFFT via l'interface web " https://usegalaxy.eu " avec l'historique accessible ici : "  https://useg>
+(PARAMETRES UTILISES :
+ - Type of sequences : Amino acids
+ - Type of scoring matrix : BLOSUM
+ - Coefficient of the BLOSUM matrix : 62
+ - Configure gap costs : Use default values
+ - Reorder output : Yes/No (générer un de chaque)
+ - Output format : FASTA )
+
+Les résultats ont été enregistrés au format FASTA avec le PATH: " /data/projet5/common/data/1_intermediate/MAFFT_alignment "
+
 **2024-10-29**  
 Travail excecuté par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
 Production de nouveaux alignements en utilisant MAFFT. Nous avons générés, pour chaque fichier d'entrée, deux fichiers de sorties. Le premier fichier de sortie possèdent l'ordre du fichier d'entrée. l'ordre des séquence à été réorganisé automatiquement pour le deuxième fichier. 
