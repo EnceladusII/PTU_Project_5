@@ -55,7 +55,7 @@ Ces alignements ont été obtenu grâce à la version web en ligne de clustalΩ 
 Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0. 
 À cette étape du projet, aucune conclusion ni correction n'a été apporté vis-à-vis de ces alignements.
 
-**2024-10-29**
+**2024-10-29**  
 Travail executé par : WITTENMEYER Guillaume
 Pour comparer avec avec l'alignement de clustalΩ, génération d'alignement de ces séquences grâce au programme MAFFT via l'interface web " https://usegalaxy.eu " avec l'historique accessible ici : "  https://useg>
 (PARAMETRES UTILISES :
