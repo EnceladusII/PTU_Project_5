@@ -53,6 +53,32 @@ Ces alignements ont été obtenu grâce à la version web en ligne de clustalΩ 
 Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0. 
 À cette étape du projet, aucune conclusion ni correction n'a été apporté vis-à-vis de ces alignements.
 
+**2024-10-29**
+Travail executé par : WITTENMEYER Guillaume
+Pour comparer avec avec l'alignement de clustalΩ, génération d'alignement de ces séquences grâce au programme MAFFT via l'interface web " https://usegalaxy.eu " avec l'historique accessible ici : "  https://useg>
+(PARAMETRES UTILISES :
+ - Type of sequences : Amino acids
+ - Type of scoring matrix : BLOSUM
+ - Coefficient of the BLOSUM matrix : 62
+ - Configure gap costs : Use default values
+ - Reorder output : Yes/No (générer un de chaque)
+ - Output format : FASTA )
+
+Les résultats ont été enregistrés au format FASTA avec le PATH: " /data/projet5/common/data/1_intermediate/MAFFT_alignment "
+
+**2024-10-29**  
+Travail executé par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
+Production de nouveaux alignements en utilisant MAFFT. Nous avons générés, pour chaque fichier d'entrée, deux fichiers de sorties. Le premier fichier de sortie possèdent l'ordre du fichier d'entrée. l'ordre des >
+Ces étapes ont été réalises à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté.
+
+**2024-10-29**  
+Travail executé par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
+A partir de l'alignement ne possédant pas les AAs supplémentaire, nous avons essayer de trouver des résidus fortements conservés, nosu avons principalement trouvés des résidues hydrophobes, apolaires et non ioni>
+
+
+Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0.
+
+
 ---
 
 For detailed guidance or troubleshooting, please refer to the full project documentation or contact the project lead.
