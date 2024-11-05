@@ -67,15 +67,20 @@ Pour comparer avec avec l'alignement de clustalΩ, génération d'alignement de 
  - Output format : FASTA )
 
 Les résultats ont été enregistrés au format FASTA avec le PATH: " /data/projet5/common/data/1_intermediate/MAFFT_alignment "
+Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0.
 
 **2024-10-29**  
 Travail excecuté par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
 Production de nouveaux alignements en utilisant MAFFT. Nous avons générés, pour chaque fichier d'entrée, deux fichiers de sorties. Le premier fichier de sortie possèdent l'ordre du fichier d'entrée. l'ordre des séquence à été réorganisé automatiquement pour le deuxième fichier. 
 Ces étapes ont été réalises à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté.
 
+Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0.
+
 **2024-10-29**  
 Travail excecuté par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
 A partir de l'alignement ne possédant pas les AAs supplémentaire, nous avons essayer de trouver des résidus fortements conservés, nosu avons principalement trouvés des résidues hydrophobes, apolaires et non ionisables (Val, Leu, Ile, Gly)
+
+Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0.
 
 ---
 
