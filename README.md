@@ -1,4 +1,3 @@
-
 # Exploration of New Approaches for Defining and Evaluating a Family of Repeated Regions by Alignment Using UniProt Annotations and AlphaFold Predictions
 
 ## Overview
@@ -32,12 +31,13 @@ AAs --> Acides Aminés
 
 ## Cahier de laboratoire
     Format : 
-    {**AAAA-MM-DD :**  
+    {**AAAA-MM-DD :**
+    travail excécuté par :
     "contenu"}
 
 **2024-10-19 :**  
-Travail executé par : MOSER Mathilda 
-Production des premier alignements à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté.  
+Travail excecuté par : MOSER Mathilda  
+Production des premier alignements à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté. Les fichiers de sorties sont réorganisés
 Ces alignements ont été obtenu grâce à la version web en ligne de clustalΩ disponible à cette adresse : " https://www.ebi.ac.uk/jdispatcher/msa/clustalo " .  Les paramètres d'entrée ont été laissés par défaut sur le site sauf pour le format qui à été changé vers le format FASTA.  
 
 (PARAMETRES UTILISEES :
@@ -57,11 +57,7 @@ Les résultats ont été obtenues au format FASTA et on été visualisé en util
 
 **2024-10-29**
 Travail executé par : WITTENMEYER Guillaume
-<<<<<<< HEAD
 Pour comparer avec avec l'alignement de clustalΩ, génération d'alignement de ces séquences grâce au programme MAFFT via l'interface web " https://usegalaxy.eu " avec l'historique accessible ici : "  https://useg>
-=======
-Pour comparer avec avec l'alignement de clustalΩ, génération d'alignement de ces séquences grâce au programme MAFFT via l'interface web " https://usegalaxy.eu " avec l'historique accessible ici : "  https://usegalaxy.eu/u/encelade/h/wdrepeats " 
->>>>>>> 562921a (Commit 2024-11-05)
 (PARAMETRES UTILISES :
  - Type of sequences : Amino acids
  - Type of scoring matrix : BLOSUM
@@ -73,31 +69,14 @@ Pour comparer avec avec l'alignement de clustalΩ, génération d'alignement de 
 Les résultats ont été enregistrés au format FASTA avec le PATH: " /data/projet5/common/data/1_intermediate/MAFFT_alignment "
 
 **2024-10-29**  
-Travail executé par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
-<<<<<<< HEAD
-Production de nouveaux alignements en utilisant MAFFT. Nous avons générés, pour chaque fichier d'entrée, deux fichiers de sorties. Le premier fichier de sortie possèdent l'ordre du fichier d'entrée. l'ordre des >
-=======
+Travail excecuté par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
 Production de nouveaux alignements en utilisant MAFFT. Nous avons générés, pour chaque fichier d'entrée, deux fichiers de sorties. Le premier fichier de sortie possèdent l'ordre du fichier d'entrée. l'ordre des séquence à été réorganisé automatiquement pour le deuxième fichier. 
->>>>>>> 562921a (Commit 2024-11-05)
 Ces étapes ont été réalises à partir des séquences fasta des WD repeats, des WD repeats étendus de 10 acides aminés (AAs) de chaque coté et des WD repeats étendus de 20 AAs de chaque coté.
 
 **2024-10-29**  
-Travail executé par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
-<<<<<<< HEAD
-A partir de l'alignement ne possédant pas les AAs supplémentaire, nous avons essayer de trouver des résidus fortements conservés, nosu avons principalement trouvés des résidues hydrophobes, apolaires et non ioni>
-=======
+Travail excecuté par : WITTENMEYER Guillaume, KESHAVARZ-NAJAFI Mohsen, MOSER Mathilda  
 A partir de l'alignement ne possédant pas les AAs supplémentaire, nous avons essayer de trouver des résidus fortements conservés, nosu avons principalement trouvés des résidues hydrophobes, apolaires et non ionisables (Val, Leu, Ile, Gly)
->>>>>>> 562921a (Commit 2024-11-05)
 
-
-Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0.
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 562921a (Commit 2024-11-05)
 ---
 
 For detailed guidance or troubleshooting, please refer to the full project documentation or contact the project lead.
-
-
