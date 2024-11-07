@@ -25,8 +25,8 @@ This project is divided into several key tasks:
 ## Potential Collaboration
 Collaboration with **Project 3** is possible, allowing the exploration of further methods and perspectives for redefining the boundaries of beta-propellers formed by WD repeats.
 
-<<<<<<< HEAD
-=======
+
+<======================== Cahier de Laboratoire  ===============================>
 ## Abbréviation utilisé
 AAs --> Acides Aminés
 
@@ -84,7 +84,7 @@ A partir de l'alignement ne possédant pas les AAs supplémentaire, nous avons e
 
 Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0.
 
->>>>>>> master
+
 ---
 
 For detailed guidance or troubleshooting, please refer to the full project documentation or contact the project lead.
