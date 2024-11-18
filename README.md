@@ -59,7 +59,7 @@ Les résultats ont été obtenues au format FASTA et on été visualisé en util
 
 **2024-10-29**  
 Travail executé par : WITTENMEYER Guillaume  
-Pour comparer avec avec l'alignement de clustalΩ, génération d'alignement de ces séquences grâce au programme MAFFT via l'interface web " https://usegalaxy.eu " avec l'historique accessible ici : "  https://useg>
+Pour comparer avec avec l'alignement de clustalΩ, génération d'alignement de ces séquences grâce au programme MAFFT via l'interface web " https://usegalaxy.eu " avec l'historique accessible ici : " https://usegalaxy.eu/u/encelade/h/wdrepeats "
 (PARAMETRES UTILISES :
  - Type of sequences : Amino acids
  - Type of scoring matrix : BLOSUM
