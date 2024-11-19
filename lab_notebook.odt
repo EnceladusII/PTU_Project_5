@@ -63,6 +63,17 @@ Suite à nos réunion avec le Groupe 3, nous avons aussi jugé qu'il était int�
 Pour effectuer cela nous avaons écrit et utilisé un script python ( ~/common/scripts/filter.py ) en utilisant un environnement conda en python=3.9 ( ~/common/scripts/wd_repeat.yml )   
 Les fichiers fasta filtrés générés ont été générés dans des sous-dossiers séparer dans le dossier ~/common/data/0_raw/sequences_fasta/  
 
+Alignement de ces séquences grâce au programme MAFFT via l'interface web " https://usegalaxy.eu " avec l'historique accessible ici : " https://usegalaxy.eu/u/encelade/h/wdrepeats "
+(PARAMETRES UTILISES :
+ - Type of sequences : Amino acids
+ - Type of scoring matrix : BLOSUM
+ - Coefficient of the BLOSUM matrix : 62
+ - Configure gap costs : Use default values
+ - Reorder output : Yes
+ - Output format : FASTA )
+
+Les résultats ont été enregistrés au format FASTA avec le PATH: " /data/projet5/common/data/1_intermediate/MAFFT_alignment/" dans un sous-dossier séparé pour chaque raw data
+Les résultats ont été obtenues au format FASTA et on été visualisé en utilisant le programme Jalview v2.11.4.0.  
 
 ---
 
