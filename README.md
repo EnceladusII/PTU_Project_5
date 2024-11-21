@@ -28,7 +28,7 @@ Collaboration with **Project 3** is possible, allowing the exploration of furthe
 ## Laboratory Notebook  
 Check ~/lab_notebook.odt  
 
-Conda environment parameter = {
+Conda environment parameter (available at ~/common/scrpits/wd_repeat.yml) :
 
 	python -- version = 3.9.20
 
@@ -80,7 +80,7 @@ Conda environment parameter = {
 	wheel               0.44.0
 	zipp                3.20.2
 	zstandard           0.23.0	
-}
+
 
 ---
 
