@@ -46,7 +46,7 @@ def find_alignment_files(fpath=str):
             ali_list.append(fname)
     return ali_list
 
-def gen_weblogo(fpathlist=list, threshold=float):
+def gen_weblogo_fil(fpathlist=list, threshold=float):
     """
     
     """
@@ -65,4 +65,4 @@ for path in pathlist:
     else:
         os.mkdir('occupancy')
 
-gen_weblogo(pathlist, 0.7)
+gen_weblogo_fil(pathlist, 0.7)
