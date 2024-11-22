@@ -92,6 +92,6 @@ def write_blades(dfname=str, pdbpath=str, pdb_outputpath=str):
                 resmax=resmin+df.iloc[i]['length']
                 res_list=blade_filter(structure, resmin, resmax)
 
-                write_pdb(structure, pdb_outputpath / 'pdb_cut_per_blade' / f'{pdb[:-4]}_blade{bladenbr}.pbd', res_list)
+                write_pdb(structure, pdb_outputpath / 'pdb_cut_per_blade' / f'{pdb[:-4]}_blade{bladenbr}.pdb', res_list)
 
 write_blades(rawexcel, pdbrawfolder, pdbcutfolder)
