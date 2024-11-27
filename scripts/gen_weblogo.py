@@ -1,3 +1,6 @@
+# Script to generate weblogo using python ===> not used
+# by WITTENMEYER Guillaume, MOSER Mathilda, KESHAVARZ-NAJAFI Mohsen
+
 from weblogo import *
 from pathlib import Path
 import os

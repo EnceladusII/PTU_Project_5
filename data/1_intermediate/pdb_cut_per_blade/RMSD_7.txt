@@ -1,0 +1,414 @@
+>Superposition de A4D1P6_blade7 sur A2RUS2_blade7:
+131
+0.7183660864830017
+>Superposition de A6NGE4_blade7 sur A2RUS2_blade7:
+125
+0.6712110042572021
+>Superposition de O14576_blade7 sur A2RUS2_blade7:
+115
+0.4294203519821167
+>Superposition de O14775_blade7 sur A2RUS2_blade7:
+137
+0.5074658989906311
+>Superposition de O15040_blade7 sur A2RUS2_blade7:
+60
+0.6145433783531189
+>Superposition de O43172_blade7 sur A2RUS2_blade7:
+142
+0.6941495537757874
+>Superposition de O43660_blade7 sur A2RUS2_blade7:
+106
+0.494907945394516
+>Superposition de O43684_blade7 sur A2RUS2_blade7:
+130
+1.2211966514587402
+>Superposition de O43818_blade7 sur A2RUS2_blade7:
+77
+0.5233072638511658
+>Superposition de O60508_blade7 sur A2RUS2_blade7:
+141
+0.7806721329689026
+>Superposition de O75037_blade7 sur A2RUS2_blade7:
+145
+0.6034418344497681
+>Superposition de O75530_blade7 sur A2RUS2_blade7:
+125
+0.6711881160736084
+>Superposition de O75717_blade7 sur A2RUS2_blade7:
+108
+0.8376520276069641
+>Superposition de O76071_blade7 sur A2RUS2_blade7:
+149
+0.6880161762237549
+>Superposition de O94967_blade7 sur A2RUS2_blade7:
+134
+0.8363541960716248
+>Superposition de O94979_blade7 sur A2RUS2_blade7:
+138
+1.1058698892593384
+>Superposition de P0C7V8_blade7 sur A2RUS2_blade7:
+92
+2.0238168239593506
+>Superposition de P16520_blade7 sur A2RUS2_blade7:
+131
+0.4297431707382202
+>Superposition de P31146_blade7 sur A2RUS2_blade7:
+183
+2.491157293319702
+>Superposition de P43034_blade7 sur A2RUS2_blade7:
+143
+0.5576775670051575
+>Superposition de P53621_blade7 sur A2RUS2_blade7:
+156
+1.3992737531661987
+>Superposition de P54198_blade7 sur A2RUS2_blade7:
+132
+0.6467832922935486
+>Superposition de P57081_blade7 sur A2RUS2_blade7:
+29
+0.8674366474151611
+>Superposition de P61962_blade7 sur A2RUS2_blade7:
+182
+1.4379905462265015
+>Superposition de P61964_blade7 sur A2RUS2_blade7:
+145
+0.5573498010635376
+>Superposition de P62873_blade7 sur A2RUS2_blade7:
+135
+0.487658828496933
+>Superposition de P62879_blade7 sur A2RUS2_blade7:
+131
+0.43708255887031555
+>Superposition de P63151_blade7 sur A2RUS2_blade7:
+120
+4.5244622230529785
+>Superposition de P63244_blade7 sur A2RUS2_blade7:
+122
+0.43939539790153503
+>Superposition de P78406_blade7 sur A2RUS2_blade7:
+102
+1.173004388809204
+>Superposition de Q00005_blade7 sur A2RUS2_blade7:
+102
+2.544107437133789
+>Superposition de Q04726_blade7 sur A2RUS2_blade7:
+145
+0.8656560778617859
+>Superposition de Q04727_blade7 sur A2RUS2_blade7:
+141
+0.8161160349845886
+>Superposition de Q12770_blade7 sur A2RUS2_blade7:
+148
+1.2442784309387207
+>Superposition de Q12834_blade7 sur A2RUS2_blade7:
+132
+0.44589924812316895
+>Superposition de Q13112_blade7 sur A2RUS2_blade7:
+135
+0.6725748777389526
+>Superposition de Q13216_blade7 sur A2RUS2_blade7:
+190
+1.825158715248108
+>Superposition de Q13347_blade7 sur A2RUS2_blade7:
+192
+1.1830575466156006
+>Superposition de Q13409_blade7 sur A2RUS2_blade7:
+114
+0.4692986011505127
+>Superposition de Q13610_blade7 sur A2RUS2_blade7:
+166
+1.5806176662445068
+>Superposition de Q14137_blade7 sur A2RUS2_blade7:
+105
+0.5304880142211914
+>Superposition de Q16576_blade7 sur A2RUS2_blade7:
+128
+1.2749855518341064
+>Superposition de Q2TAY7_blade7 sur A2RUS2_blade7:
+144
+0.8498886823654175
+>Superposition de Q38SD2_blade7 sur A2RUS2_blade7:
+167
+6.84997034072876
+>Superposition de Q53HC9_blade7 sur A2RUS2_blade7:
+195
+1.079799771308899
+>Superposition de Q562E7_blade7 sur A2RUS2_blade7:
+139
+1.14091157913208
+>Superposition de Q58WW2_blade7 sur A2RUS2_blade7:
+128
+0.6726046800613403
+>Superposition de Q5JSH3_blade7 sur A2RUS2_blade7:
+172
+12.491243362426758
+>Superposition de Q5JTN6_blade7 sur A2RUS2_blade7:
+74
+0.4983469843864441
+>Superposition de Q5MNZ6_blade7 sur A2RUS2_blade7:
+104
+3.617194890975952
+>Superposition de Q5MNZ9_blade7 sur A2RUS2_blade7:
+132
+2.52462100982666
+>Superposition de Q5QP82_blade7 sur A2RUS2_blade7:
+132
+0.5558841228485107
+>Superposition de Q5S007_blade7 sur A2RUS2_blade7:
+156
+7.812356948852539
+>Superposition de Q5TAQ9_blade7 sur A2RUS2_blade7:
+96
+1.8785051107406616
+>Superposition de Q5VW00_blade7 sur A2RUS2_blade7:
+70
+0.7117441296577454
+>Superposition de Q5XUX1_blade7 sur A2RUS2_blade7:
+125
+0.773717999458313
+>Superposition de Q5XX13_blade7 sur A2RUS2_blade7:
+134
+0.8734290599822998
+>Superposition de Q64LD2_blade7 sur A2RUS2_blade7:
+131
+0.6088730096817017
+>Superposition de Q66LE6_blade7 sur A2RUS2_blade7:
+120
+4.722622394561768
+>Superposition de Q676U5_blade7 sur A2RUS2_blade7:
+132
+0.4713425040245056
+>Superposition de Q6P2E9_blade7 sur A2RUS2_blade7:
+146
+9.25136947631836
+>Superposition de Q6Q0C0_blade7 sur A2RUS2_blade7:
+127
+0.3330342471599579
+>Superposition de Q6ZMY6_blade7 sur A2RUS2_blade7:
+148
+0.7052183747291565
+>Superposition de Q7Z4S6_blade7 sur A2RUS2_blade7:
+141
+0.5102142095565796
+>Superposition de Q7Z5U6_blade7 sur A2RUS2_blade7:
+202
+2.6415436267852783
+>Superposition de Q86VZ2_blade7 sur A2RUS2_blade7:
+145
+0.5761038064956665
+>Superposition de Q86W42_blade7 sur A2RUS2_blade7:
+73
+4.649195671081543
+>Superposition de Q86Y33_blade7 sur A2RUS2_blade7:
+152
+0.7136114239692688
+>Superposition de Q86YC2_blade7 sur A2RUS2_blade7:
+117
+0.5917619466781616
+>Superposition de Q8IWB7_blade7 sur A2RUS2_blade7:
+113
+0.6186816096305847
+>Superposition de Q8N0X2_blade7 sur A2RUS2_blade7:
+149
+0.7362120747566223
+>Superposition de Q8N122_blade7 sur A2RUS2_blade7:
+121
+0.783072292804718
+>Superposition de Q8N157_blade7 sur A2RUS2_blade7:
+145
+1.4056510925292969
+>Superposition de Q8N5D0_blade7 sur A2RUS2_blade7:
+135
+0.8956281542778015
+>Superposition de Q8N9V3_blade7 sur A2RUS2_blade7:
+137
+0.5900700688362122
+>Superposition de Q8NA23_blade7 sur A2RUS2_blade7:
+155
+1.9346431493759155
+>Superposition de Q8NAA4_blade7 sur A2RUS2_blade7:
+126
+0.5635040402412415
+>Superposition de Q8NBT0_blade7 sur A2RUS2_blade7:
+156
+0.6527217030525208
+>Superposition de Q8NFH4_blade7 sur A2RUS2_blade7:
+178
+2.000857353210449
+>Superposition de Q8NHY2_blade7 sur A2RUS2_blade7:
+110
+0.8918867111206055
+>Superposition de Q8TBZ3_blade7 sur A2RUS2_blade7:
+185
+1.3785490989685059
+>Superposition de Q8TC44_blade7 sur A2RUS2_blade7:
+153
+0.7855972647666931
+>Superposition de Q8TEB1_blade7 sur A2RUS2_blade7:
+140
+0.8381836414337158
+>Superposition de Q8TED0_blade7 sur A2RUS2_blade7:
+125
+0.9806930422782898
+>Superposition de Q92466_blade7 sur A2RUS2_blade7:
+80
+1.375157356262207
+>Superposition de Q92828_blade7 sur A2RUS2_blade7:
+126
+2.571669340133667
+>Superposition de Q969H0_blade7 sur A2RUS2_blade7:
+153
+0.7307603359222412
+>Superposition de Q969U6_blade7 sur A2RUS2_blade7:
+199
+1.2998509407043457
+>Superposition de Q96BP3_blade7 sur A2RUS2_blade7:
+63
+1.5537229776382446
+>Superposition de Q96DI7_blade7 sur A2RUS2_blade7:
+130
+0.7143774628639221
+>Superposition de Q96DN5_blade7 sur A2RUS2_blade7:
+166
+1.2808126211166382
+>Superposition de Q96P53_blade7 sur A2RUS2_blade7:
+119
+0.6966219544410706
+>Superposition de Q96RY7_blade7 sur A2RUS2_blade7:
+114
+0.6427595019340515
+>Superposition de Q99570_blade7 sur A2RUS2_blade7:
+140
+0.5601757168769836
+>Superposition de Q9BQ67_blade7 sur A2RUS2_blade7:
+167
+1.9755219221115112
+>Superposition de Q9BQA1_blade7 sur A2RUS2_blade7:
+130
+0.593186616897583
+>Superposition de Q9BRP4_blade7 sur A2RUS2_blade7:
+162
+1.0897489786148071
+>Superposition de Q9BRX9_blade7 sur A2RUS2_blade7:
+104
+0.5230298042297363
+>Superposition de Q9BSC4_blade7 sur A2RUS2_blade7:
+194
+2.725243091583252
+>Superposition de Q9BTV6_blade7 sur A2RUS2_blade7:
+90
+2.043694019317627
+>Superposition de Q9BVC4_blade7 sur A2RUS2_blade7:
+140
+1.0044076442718506
+>Superposition de Q9BY44_blade7 sur A2RUS2_blade7:
+152
+1.6014113426208496
+>Superposition de Q9BYB4_blade7 sur A2RUS2_blade7:
+174
+0.8038583397865295
+>Superposition de Q9C0J8_blade7 sur A2RUS2_blade7:
+145
+0.6329818964004517
+>Superposition de Q9GZL7_blade7 sur A2RUS2_blade7:
+139
+0.78943932056427
+>Superposition de Q9GZS0_blade7 sur A2RUS2_blade7:
+184
+1.116747260093689
+>Superposition de Q9GZS3_blade7 sur A2RUS2_blade7:
+143
+0.6879798173904419
+>Superposition de Q9H1Z4_blade7 sur A2RUS2_blade7:
+160
+0.7414694428443909
+>Superposition de Q9H6Y2_blade7 sur A2RUS2_blade7:
+130
+0.47730451822280884
+>Superposition de Q9H808_blade7 sur A2RUS2_blade7:
+121
+0.6932945847511292
+>Superposition de Q9H967_blade7 sur A2RUS2_blade7:
+128
+1.405544400215149
+>Superposition de Q9HAV0_blade7 sur A2RUS2_blade7:
+131
+0.43148791790008545
+>Superposition de Q9HBG6_blade7 sur A2RUS2_blade7:
+137
+1.1299914121627808
+>Superposition de Q9HCU5_blade7 sur A2RUS2_blade7:
+194
+2.0831656455993652
+>Superposition de Q9NQW1_blade7 sur A2RUS2_blade7:
+133
+1.052045464515686
+>Superposition de Q9NRG9_blade7 sur A2RUS2_blade7:
+187
+2.303018093109131
+>Superposition de Q9NRJ4_blade7 sur A2RUS2_blade7:
+137
+0.7466549873352051
+>Superposition de Q9NRL3_blade7 sur A2RUS2_blade7:
+103
+0.7520422339439392
+>Superposition de Q9NV06_blade7 sur A2RUS2_blade7:
+133
+0.5056715607643127
+>Superposition de Q9NW82_blade7 sur A2RUS2_blade7:
+118
+0.91789311170578
+>Superposition de Q9NYS7_blade7 sur A2RUS2_blade7:
+180
+1.216392159461975
+>Superposition de Q9NZJ0_blade7 sur A2RUS2_blade7:
+142
+0.8314118981361389
+>Superposition de Q9P2H3_blade7 sur A2RUS2_blade7:
+111
+4.414058208465576
+>Superposition de Q9UFC0_blade7 sur A2RUS2_blade7:
+151
+1.139360785484314
+>Superposition de Q9UI46_blade7 sur A2RUS2_blade7:
+168
+1.2054756879806519
+>Superposition de Q9UKB1_blade7 sur A2RUS2_blade7:
+138
+0.785597026348114
+>Superposition de Q9UKT8_blade7 sur A2RUS2_blade7:
+71
+1.4971675872802734
+>Superposition de Q9UM11_blade7 sur A2RUS2_blade7:
+147
+0.7124921679496765
+>Superposition de Q9UMS4_blade7 sur A2RUS2_blade7:
+126
+0.6640734672546387
+>Superposition de Q9UQ03_blade7 sur A2RUS2_blade7:
+128
+2.4456591606140137
+>Superposition de Q9Y263_blade7 sur A2RUS2_blade7:
+103
+0.46233686804771423
+>Superposition de Q9Y297_blade7 sur A2RUS2_blade7:
+140
+0.8265867233276367
+>Superposition de Q9Y2I8_blade7 sur A2RUS2_blade7:
+111
+0.7544576525688171
+>Superposition de Q9Y2T4_blade7 sur A2RUS2_blade7:
+121
+4.724310398101807
+>Superposition de Q9Y3F4_blade7 sur A2RUS2_blade7:
+150
+0.6480722427368164
+>Superposition de Q9Y484_blade7 sur A2RUS2_blade7:
+122
+4.518979549407959
+>Superposition de Q9Y4P3_blade7 sur A2RUS2_blade7:
+154
+0.7392629384994507
+>Superposition de Q9Y4P8_blade7 sur A2RUS2_blade7:
+131
+2.4685685634613037
