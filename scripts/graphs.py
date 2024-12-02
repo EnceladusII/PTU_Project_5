@@ -8,7 +8,8 @@ import math
 
 # Path utils:
 commonpath = Path(__file__).parent.parent
-txtpath= commonpath / 'data' / '1_intermediate' / 'pdb_cut_per_blade'
+txtpath= commonpath / 'data' / '1_intermediate' / 'pdb_cut'
+
 
 def find_rmsd_txtfiles(fpath=str):
     """
@@ -50,5 +51,6 @@ def graphs(fpath=str, fname=str):
     plt.show()
 
 # Executing process:
-for f in find_rmsd_txtfiles(txtpath):
-    graphs(txtpath, f)
+for bladenbr in range(1,8):
+    for f in find_rmsd_txtfiles(txtpath / f'pdb_cut_per_blade_{bladenbr}'):
+        graphs(txtpath / f'pdb_cut_per_blade_{bladenbr}', f)

@@ -1,0 +1,414 @@
+>Superposition de A6NGE4_blade3 sur A4D1P6_blade3:
+79
+2.3657844066619873
+>Superposition de A2RUS2_blade3 sur A4D1P6_blade3:
+77
+2.0250000953674316
+>Superposition de O14576_blade3 sur A4D1P6_blade3:
+89
+0.887739360332489
+>Superposition de O14775_blade3 sur A4D1P6_blade3:
+82
+0.43374109268188477
+>Superposition de O15040_blade3 sur A4D1P6_blade3:
+89
+5.854376316070557
+>Superposition de O43172_blade3 sur A4D1P6_blade3:
+107
+1.017564296722412
+>Superposition de O43660_blade3 sur A4D1P6_blade3:
+89
+0.6063573956489563
+>Superposition de O43684_blade3 sur A4D1P6_blade3:
+45
+0.7491906881332397
+>Superposition de O43818_blade3 sur A4D1P6_blade3:
+92
+0.9391384720802307
+>Superposition de O60508_blade3 sur A4D1P6_blade3:
+85
+0.5159908533096313
+>Superposition de O75037_blade3 sur A4D1P6_blade3:
+90
+0.632761538028717
+>Superposition de O75530_blade3 sur A4D1P6_blade3:
+100
+0.8106890916824341
+>Superposition de O75717_blade3 sur A4D1P6_blade3:
+48
+0.43167904019355774
+>Superposition de O76071_blade3 sur A4D1P6_blade3:
+72
+1.2024911642074585
+>Superposition de O94967_blade3 sur A4D1P6_blade3:
+71
+0.5290407538414001
+>Superposition de O94979_blade3 sur A4D1P6_blade3:
+99
+1.7092117071151733
+>Superposition de P0C7V8_blade3 sur A4D1P6_blade3:
+79
+2.3731040954589844
+>Superposition de P16520_blade3 sur A4D1P6_blade3:
+72
+2.493034601211548
+>Superposition de P31146_blade3 sur A4D1P6_blade3:
+76
+2.1284070014953613
+>Superposition de P43034_blade3 sur A4D1P6_blade3:
+90
+0.47807368636131287
+>Superposition de P53621_blade3 sur A4D1P6_blade3:
+86
+2.9549660682678223
+>Superposition de P54198_blade3 sur A4D1P6_blade3:
+81
+0.7257906794548035
+>Superposition de P57081_blade3 sur A4D1P6_blade3:
+49
+0.969756543636322
+>Superposition de P61962_blade3 sur A4D1P6_blade3:
+104
+2.9298360347747803
+>Superposition de P61964_blade3 sur A4D1P6_blade3:
+82
+0.33813825249671936
+>Superposition de P62873_blade3 sur A4D1P6_blade3:
+78
+2.818356990814209
+>Superposition de P62879_blade3 sur A4D1P6_blade3:
+76
+2.6230175495147705
+>Superposition de P63151_blade3 sur A4D1P6_blade3:
+94
+1.0991002321243286
+>Superposition de P63244_blade3 sur A4D1P6_blade3:
+83
+2.7108840942382812
+>Superposition de P78406_blade3 sur A4D1P6_blade3:
+78
+3.8651461601257324
+>Superposition de Q00005_blade3 sur A4D1P6_blade3:
+91
+1.017884612083435
+>Superposition de Q04726_blade3 sur A4D1P6_blade3:
+95
+0.5881621241569519
+>Superposition de Q04727_blade3 sur A4D1P6_blade3:
+97
+0.6073904037475586
+>Superposition de Q12770_blade3 sur A4D1P6_blade3:
+105
+5.33886194229126
+>Superposition de Q13112_blade3 sur A4D1P6_blade3:
+76
+0.4076497554779053
+>Superposition de Q12834_blade3 sur A4D1P6_blade3:
+45
+0.5966680645942688
+>Superposition de Q13216_blade3 sur A4D1P6_blade3:
+45
+0.9731136560440063
+>Superposition de Q13347_blade3 sur A4D1P6_blade3:
+58
+1.1621208190917969
+>Superposition de Q13409_blade3 sur A4D1P6_blade3:
+91
+0.9691025614738464
+>Superposition de Q13610_blade3 sur A4D1P6_blade3:
+74
+2.328360080718994
+>Superposition de Q14137_blade3 sur A4D1P6_blade3:
+57
+0.7703410387039185
+>Superposition de Q2TAY7_blade3 sur A4D1P6_blade3:
+93
+0.7016294598579407
+>Superposition de Q16576_blade3 sur A4D1P6_blade3:
+79
+2.3384292125701904
+>Superposition de Q38SD2_blade3 sur A4D1P6_blade3:
+84
+1.7147413492202759
+>Superposition de Q53HC9_blade3 sur A4D1P6_blade3:
+85
+4.115574836730957
+>Superposition de Q562E7_blade3 sur A4D1P6_blade3:
+104
+4.540331840515137
+>Superposition de Q58WW2_blade3 sur A4D1P6_blade3:
+89
+5.520702362060547
+>Superposition de Q5JSH3_blade3 sur A4D1P6_blade3:
+96
+0.6873347759246826
+>Superposition de Q5JTN6_blade3 sur A4D1P6_blade3:
+93
+0.4427981972694397
+>Superposition de Q5MNZ6_blade3 sur A4D1P6_blade3:
+98
+3.863274097442627
+>Superposition de Q5QP82_blade3 sur A4D1P6_blade3:
+89
+5.794776916503906
+>Superposition de Q5MNZ9_blade3 sur A4D1P6_blade3:
+91
+3.7419238090515137
+>Superposition de Q5S007_blade3 sur A4D1P6_blade3:
+115
+4.592795372009277
+>Superposition de Q5TAQ9_blade3 sur A4D1P6_blade3:
+75
+2.151277780532837
+>Superposition de Q5VW00_blade3 sur A4D1P6_blade3:
+71
+2.285203695297241
+>Superposition de Q5XUX1_blade3 sur A4D1P6_blade3:
+78
+0.7499738931655884
+>Superposition de Q64LD2_blade3 sur A4D1P6_blade3:
+94
+0.6118236184120178
+>Superposition de Q5XX13_blade3 sur A4D1P6_blade3:
+87
+0.45616599917411804
+>Superposition de Q66LE6_blade3 sur A4D1P6_blade3:
+94
+1.0682927370071411
+>Superposition de Q676U5_blade3 sur A4D1P6_blade3:
+91
+0.7547808885574341
+>Superposition de Q6P2E9_blade3 sur A4D1P6_blade3:
+118
+5.158667087554932
+>Superposition de Q6Q0C0_blade3 sur A4D1P6_blade3:
+71
+0.7487297654151917
+>Superposition de Q7Z5U6_blade3 sur A4D1P6_blade3:
+83
+2.2686007022857666
+>Superposition de Q6ZMY6_blade3 sur A4D1P6_blade3:
+68
+0.4537688195705414
+>Superposition de Q7Z4S6_blade3 sur A4D1P6_blade3:
+89
+0.7294268608093262
+>Superposition de Q86VZ2_blade3 sur A4D1P6_blade3:
+76
+0.31314539909362793
+>Superposition de Q86W42_blade3 sur A4D1P6_blade3:
+75
+0.30384495854377747
+>Superposition de Q86Y33_blade3 sur A4D1P6_blade3:
+78
+2.25106143951416
+>Superposition de Q86YC2_blade3 sur A4D1P6_blade3:
+88
+1.3018008470535278
+>Superposition de Q8IWB7_blade3 sur A4D1P6_blade3:
+74
+0.48886117339134216
+>Superposition de Q8N0X2_blade3 sur A4D1P6_blade3:
+87
+0.6870710253715515
+>Superposition de Q8N157_blade3 sur A4D1P6_blade3:
+75
+2.2535741329193115
+>Superposition de Q8N5D0_blade3 sur A4D1P6_blade3:
+55
+1.004016399383545
+>Superposition de Q8N122_blade3 sur A4D1P6_blade3:
+88
+0.6140710711479187
+>Superposition de Q8NA23_blade3 sur A4D1P6_blade3:
+83
+2.5459401607513428
+>Superposition de Q8N9V3_blade3 sur A4D1P6_blade3:
+86
+0.4611856937408447
+>Superposition de Q8NAA4_blade3 sur A4D1P6_blade3:
+77
+2.6419572830200195
+>Superposition de Q8NBT0_blade3 sur A4D1P6_blade3:
+88
+0.7104101181030273
+>Superposition de Q8NFH4_blade3 sur A4D1P6_blade3:
+84
+2.8581533432006836
+>Superposition de Q8NHY2_blade3 sur A4D1P6_blade3:
+87
+0.9548137784004211
+>Superposition de Q8TBZ3_blade3 sur A4D1P6_blade3:
+61
+0.5311563611030579
+>Superposition de Q8TEB1_blade3 sur A4D1P6_blade3:
+101
+1.3011555671691895
+>Superposition de Q8TC44_blade3 sur A4D1P6_blade3:
+92
+0.7298895716667175
+>Superposition de Q8TED0_blade3 sur A4D1P6_blade3:
+79
+0.3002875745296478
+>Superposition de Q92828_blade3 sur A4D1P6_blade3:
+81
+2.2286367416381836
+>Superposition de Q92466_blade3 sur A4D1P6_blade3:
+84
+1.0087981224060059
+>Superposition de Q969H0_blade3 sur A4D1P6_blade3:
+82
+0.4417010247707367
+>Superposition de Q969U6_blade3 sur A4D1P6_blade3:
+84
+9.987772941589355
+>Superposition de Q96BP3_blade3 sur A4D1P6_blade3:
+78
+1.5845142602920532
+>Superposition de Q96DI7_blade3 sur A4D1P6_blade3:
+105
+1.1872777938842773
+>Superposition de Q96P53_blade3 sur A4D1P6_blade3:
+82
+0.5205903053283691
+>Superposition de Q96DN5_blade3 sur A4D1P6_blade3:
+66
+0.37660345435142517
+>Superposition de Q96RY7_blade3 sur A4D1P6_blade3:
+88
+6.026484489440918
+>Superposition de Q99570_blade3 sur A4D1P6_blade3:
+86
+1.125669002532959
+>Superposition de Q9BQ67_blade3 sur A4D1P6_blade3:
+89
+2.2280521392822266
+>Superposition de Q9BQA1_blade3 sur A4D1P6_blade3:
+77
+0.46524548530578613
+>Superposition de Q9BRP4_blade3 sur A4D1P6_blade3:
+80
+2.854372501373291
+>Superposition de Q9BRX9_blade3 sur A4D1P6_blade3:
+84
+2.7604575157165527
+>Superposition de Q9BSC4_blade3 sur A4D1P6_blade3:
+78
+1.594904899597168
+>Superposition de Q9BTV6_blade3 sur A4D1P6_blade3:
+53
+0.48405227065086365
+>Superposition de Q9BVC4_blade3 sur A4D1P6_blade3:
+88
+1.2138535976409912
+>Superposition de Q9BY44_blade3 sur A4D1P6_blade3:
+76
+1.8936561346054077
+>Superposition de Q9BYB4_blade3 sur A4D1P6_blade3:
+44
+0.9149864912033081
+>Superposition de Q9C0J8_blade3 sur A4D1P6_blade3:
+87
+0.5112424492835999
+>Superposition de Q9GZL7_blade3 sur A4D1P6_blade3:
+87
+2.72713565826416
+>Superposition de Q9GZS0_blade3 sur A4D1P6_blade3:
+61
+0.8949643969535828
+>Superposition de Q9GZS3_blade3 sur A4D1P6_blade3:
+86
+0.5604770183563232
+>Superposition de Q9H1Z4_blade3 sur A4D1P6_blade3:
+79
+4.499109268188477
+>Superposition de Q9H6Y2_blade3 sur A4D1P6_blade3:
+97
+1.3709725141525269
+>Superposition de Q9H808_blade3 sur A4D1P6_blade3:
+79
+0.3961823582649231
+>Superposition de Q9H967_blade3 sur A4D1P6_blade3:
+73
+0.9891396164894104
+>Superposition de Q9HAV0_blade3 sur A4D1P6_blade3:
+96
+0.629684567451477
+>Superposition de Q9HBG6_blade3 sur A4D1P6_blade3:
+75
+1.3445391654968262
+>Superposition de Q9HCU5_blade3 sur A4D1P6_blade3:
+83
+9.474893569946289
+>Superposition de Q9NQW1_blade3 sur A4D1P6_blade3:
+91
+1.2413716316223145
+>Superposition de Q9NRG9_blade3 sur A4D1P6_blade3:
+94
+2.318723201751709
+>Superposition de Q9NRJ4_blade3 sur A4D1P6_blade3:
+87
+2.782785177230835
+>Superposition de Q9NRL3_blade3 sur A4D1P6_blade3:
+64
+0.4564899206161499
+>Superposition de Q9NV06_blade3 sur A4D1P6_blade3:
+94
+1.1650207042694092
+>Superposition de Q9NW82_blade3 sur A4D1P6_blade3:
+92
+1.0031836032867432
+>Superposition de Q9NYS7_blade3 sur A4D1P6_blade3:
+78
+2.4363603591918945
+>Superposition de Q9NZJ0_blade3 sur A4D1P6_blade3:
+57
+0.9943109154701233
+>Superposition de Q9P2H3_blade3 sur A4D1P6_blade3:
+87
+1.817186951637268
+>Superposition de Q9UFC0_blade3 sur A4D1P6_blade3:
+81
+2.330465316772461
+>Superposition de Q9UI46_blade3 sur A4D1P6_blade3:
+79
+2.3967063426971436
+>Superposition de Q9UKB1_blade3 sur A4D1P6_blade3:
+75
+2.2483408451080322
+>Superposition de Q9UKT8_blade3 sur A4D1P6_blade3:
+51
+1.1248013973236084
+>Superposition de Q9UMS4_blade3 sur A4D1P6_blade3:
+75
+0.3460264801979065
+>Superposition de Q9UM11_blade3 sur A4D1P6_blade3:
+46
+0.5814900994300842
+>Superposition de Q9UQ03_blade3 sur A4D1P6_blade3:
+81
+2.1965770721435547
+>Superposition de Q9Y263_blade3 sur A4D1P6_blade3:
+74
+0.6820953488349915
+>Superposition de Q9Y2I8_blade3 sur A4D1P6_blade3:
+86
+0.45351099967956543
+>Superposition de Q9Y297_blade3 sur A4D1P6_blade3:
+74
+2.2003965377807617
+>Superposition de Q9Y2T4_blade3 sur A4D1P6_blade3:
+92
+1.0602500438690186
+>Superposition de Q9Y3F4_blade3 sur A4D1P6_blade3:
+78
+1.0026867389678955
+>Superposition de Q9Y484_blade3 sur A4D1P6_blade3:
+77
+3.5472412109375
+>Superposition de Q9Y4P3_blade3 sur A4D1P6_blade3:
+78
+0.7158634066581726
+>Superposition de Q9Y4P8_blade3 sur A4D1P6_blade3:
+89
+3.655272960662842

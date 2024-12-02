@@ -12,7 +12,7 @@ import numpy as np
 # Path utils:
 commonpath = Path(__file__).parent.parent
 pdbrawfolder = commonpath / 'data' / '0_raw' / 'pdb'
-pdbcutfolder = commonpath / 'data' / '1_intermediate' 
+pdbcutfolder = commonpath / 'data' / '1_intermediate' / 'pdb_cut'
 rawexcel = commonpath / 'data' / '0_raw' / 'excel' / 'WD_extracted_data.xlsx'
 
 read_pdb=bp.PDBParser(PERMISSIVE=True, get_header=True, structure_builder=None, QUIET=False)
@@ -100,10 +100,8 @@ def write_blades(dfname=str, pdbpath=str, pdb_outputpath=str):
     # Have the list of all the raw pdb proteic domain download using AlphaFold (alphafold.py)
     pdblist=find_pdb_files(pdbpath)
     # Create a new folder to store the results if this folder doesn't exist
-    if os.path.exists(pdb_outputpath / 'pdb_cut_per_blade'):
-        pass
-    else:
-        os.mkdir(pdb_outputpath / 'pdb_cut_per_blade')
+    if not os.path.exists(pdb_outputpath):
+        os.mkdir(pdb_outputpath)
     # For each raw pdb containing in the pdblist we want to cut the pdb for each blade information containing for the proteic structure in the dataframe
     for pdb in pdblist:
         # Define the raw pdb file as a structure using BioPython to use with the functions
@@ -119,8 +117,10 @@ def write_blades(dfname=str, pdbpath=str, pdb_outputpath=str):
                 resmax=resmin+df.iloc[i]['length']
                 res_list=res_filter(structure, resmin, resmax)
 
-                write_pdb(structure, pdb_outputpath / 'pdb_cut_per_blade' / f'{pdb[:-4]}_blade{bladenbr}.pdb', res_list)
+                if not os.path.exists(pdb_outputpath / f'pdb_cut_per_blade_{bladenbr}'):
+                    os.mkdir(pdb_outputpath / f'pdb_cut_per_blade_{bladenbr}')
+
+                write_pdb(structure, pdb_outputpath / f'pdb_cut_per_blade_{bladenbr}' / f'{pdb[:-4]}_blade{bladenbr}.pdb', res_list)
 
 # Executing process
-
 write_blades(rawexcel, pdbrawfolder, pdbcutfolder)
