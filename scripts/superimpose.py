@@ -32,6 +32,92 @@ def load_structure(pdbpath=str, fname=str):
     """
     cmd.load(str(pdbpath)+f'/{fname}', fname[:-4])
 
+
+def super_structure(pdbpath=str, pdblist=list, sfx=str):
+    """
+        Function to superimpose a liste of structure by using the best structure of the list like the reference structure for superimposition 
+        by calculate the RMSD average of all superimposition for each reference in the list
+            pdbpath = path  of all the pdb files (str)
+            pdblist = list of the name of the pdbs to superimpose with the reference (list)
+            sfx = suffix for generated files (int)
+
+    """
+    # Launch PyMol with the GUI (take lot of time)
+    #pymol.finish_launching(['pymol', '-q'])
+
+    # Define the initial variable to store the reference for the superimposition and the lowest RMSD average
+    best_ref=None
+    lowest_rmsd=float('inf')
+    #highest_at=0
+
+    # Calculate RMSD average for each ref structure in the list 
+    for ref in pdblist:
+        load_structure(pdbpath, ref)
+        # Define initial parameters
+        tot_rmsd=0
+        #tot_at=0
+        success_count=0
+        # Superimpose all the structure with the actual reference
+        for target in pdblist:
+            # To skip the superimposition if the reference is the target too
+            if target == ref:
+                continue
+            load_structure(pdbpath, target)
+            try:
+                rmsd = cmd.super(target[:-4], ref[:-4])[0]
+                #at = cmd.super(target[:-4], ref[:-4])[1]
+                tot_rmsd += rmsd
+                #tot_at+=at
+                success_count += 1
+            except Exception as e:
+                print(f"Error superimposing {target} on {ref}: {e}")
+        # Compute the RMSD average
+        avg_rmsd = tot_rmsd / success_count if success_count > 0 else float('inf')
+        #avg_at = tot_at / success_count if success_count > 0 else 0
+        # Compare the actual RMSD average with the actual lowest RMSD average
+        if avg_rmsd < lowest_rmsd:
+            # Redefine the lowest RMSD average and the best reference if the actual RMSD average is lower than the actual lowest RMSD average
+            lowest_rmsd = avg_rmsd
+            #highest_at=avg_at
+            best_ref = ref
+
+    print(f"Reference: {best_ref}, Avg RMSD: {lowest_rmsd}")
+
+    # For PyMol compatibility :
+    pdbpath=str(pdbpath)
+
+    # Reinitialize PyMol
+    cmd.reinitialize()
+
+    # Create a file to store the rmsd and the number of atoms take in account for each superimposition
+    with open(pdbpath + f'/RMSD_{sfx}.txt', 'w') as f:
+                f.write(f"")
+
+    # Create a file to store the pdb which are not predicted by AlphaFold 
+    with open(pdbpath + f'/Error_{sfx}.txt', 'w') as f:
+                f.write(f"")
+
+    # Reference is defined like the first pdb in the list
+    load_structure(pdbpath, best_ref)
+
+    for pdb in pdblist:
+        if pdb == ref:
+            continue
+        name=pdb[:-4]
+        refname=best_ref[:-4]
+        load_structure(pdbpath, pdb)
+        # If pdb file containing no error
+        try:
+            cmd.super(name, refname)
+            rmsd = cmd.super(name, refname)[0]
+            nbr_at = cmd.super(name, refname)[1]
+            with open(pdbpath + f'/RMSD_{sfx}.txt', 'a') as f:
+                f.write(f">Superposition de {name} sur {refname}:\n{nbr_at}\n{rmsd}\n")
+        #If pdb file contain an unpredicted protein by AlphaFold
+        except Exception as e:
+            with open(pdbpath + f'/Error_{sfx}.txt', 'a') as f:
+                f.write(f">Erreur lors de la superposition de:\n{name}\n")
+
 def save_superstructures(outpath=str, outputfolder=str):
     """
         Function to save the coordinates of the structure opened in a PyMol session in new pdb file for each structures in an output folder path 
@@ -55,49 +141,10 @@ def save_superstructures(outpath=str, outputfolder=str):
         fname=str(outpath / f"super_{structure}.pdb")
         cmd.save(fname, structure)
 
-def super_structure(pdbpath=str, pdblist=list, sfx=str):
-    """
-        Function to superimpose a liste of structure by using the first structure of the list like the reference structure for superimposition
-            pdbpath = path  of all the pdb files (str)
-            pdblist = list of the name of the pdbs to superimpose with the reference (list)
-            sfx = suffix for generated files (int)
-
-    """
-    # For PyMol compatibility :
-    pdbpath=str(pdbpath)
-    # Launch PyMol with the GUI
-    pymol.finish_launching(['pymol', '-q']) 
-
-    # Create a file to store the rmsd and the number of atoms take in account for each superimposition
-    with open(pdbpath + f'/RMSD_{sfx}.txt', 'w') as f:
-                f.write(f"")
-
-    # Create a file to store the pdb which are not predicted by AlphaFold 
-    with open(pdbpath + f'/Error_{sfx}.txt', 'w') as f:
-                f.write(f"")
-
-    # Reference is defined like the first pdb in the list
-    ref=pdblist[1][:-4]
-    print(ref)
-    load_structure(pdbpath, pdblist[1])
-
-    for pdb in pdblist[1:]:
-        name=pdb[:-4]
-        load_structure(pdbpath, pdb)
-        # If pdb file containing no error
-        try:
-            cmd.super(name, ref)
-            rmsd = cmd.super(name, ref)[0]
-            nbr_at = cmd.super(name, ref)[1]
-            with open(pdbpath + f'/RMSD_{sfx}.txt', 'a') as f:
-                f.write(f">Superposition de {name} sur {ref}:\n{nbr_at}\n{rmsd}\n")
-        #If pdb file contain an unpredicted protein by AlphaFold
-        except Exception as e:
-            with open(pdbpath + f'/Error_{sfx}.txt', 'a') as f:
-                f.write(f">Erreur lors de la superposition de:\n{name}\n")
-
 
 # Executing process:    
-bladenbr=str(input('Blade number = '))
-super_structure(pdbpath / f'pdb_cut_per_blade_{bladenbr}', find_pdbblade_files(pdbpath / f'pdb_cut_per_blade_{bladenbr}'), bladenbr)
-save_superstructures(pdbsuperpath / 'pdb_superstructure',  f'pdb_superstructure_blade_{bladenbr}')
+number=[1, 2, 3, 4, 5, 6, 7]
+
+for bladenbr in number:
+    super_structure(pdbpath / f'pdb_cut_per_blade_{bladenbr}', find_pdbblade_files(pdbpath / f'pdb_cut_per_blade_{bladenbr}'), bladenbr)
+    save_superstructures(pdbsuperpath / 'pdb_superstructure',  f'pdb_superstructure_blade_{bladenbr}')

@@ -32,6 +32,7 @@ def load_structure(pdbpath=str, fname=str):
     """
     cmd.load(str(pdbpath)+f'/{fname}', fname[:-4])
 
+
 def super_structure(pdbpath=str, pdblist=list):
     """
         Function to superimpose a liste of structure by using the first structure of the list like the reference structure for superimposition
@@ -71,6 +72,47 @@ def super_structure(pdbpath=str, pdblist=list):
     return ref, rmsd
 
 
+
+def super_structure2(pdbpath, pdblist):
+    """
+    Superimpose all structures in pdblist and find the best reference.
+    """
+    pdbpath = Path(pdbpath)
+    best_ref = None
+    lowest_rmsd = float('inf')
+
+    # Iterate over each structure as the potential reference
+    for ref in pdblist:
+        # Load the reference structure
+        cmd.reinitialize()  # Reset PyMOL to clear previous loads
+        load_structure(pdbpath, ref)
+        total_rmsd = 0
+        success_count = 0
+
+        for target in pdblist:
+            if target == ref:
+                continue  # Skip self-superposition
+            
+            load_structure(pdbpath, target)
+            try:
+                # Perform superimposition and sum RMSD values
+                rmsd = cmd.super(target[:-4], ref[:-4])[0]
+                total_rmsd += rmsd
+                success_count += 1
+            except Exception as e:
+                print(f"Error superimposing {target} on {ref}: {e}")
+
+        # Calculate the average RMSD
+        avg_rmsd = total_rmsd / success_count if success_count > 0 else float('inf')
+        print(f"Reference: {ref}, Avg RMSD: {avg_rmsd}")
+
+        # Update the best reference
+        if avg_rmsd < lowest_rmsd:
+            lowest_rmsd = avg_rmsd
+            best_ref = ref
+
+    return best_ref, lowest_rmsd
+
 # Executing process:    
 bladenbr=str(input('Blade number = '))
-super_structure(pdbpath / f'pdb_cut_per_blade_{bladenbr}', find_pdbblade_files(pdbpath / f'pdb_cut_per_blade_{bladenbr}'))
+print(super_structure2(pdbpath / f'pdb_cut_per_blade_{bladenbr}', find_pdbblade_files(pdbpath / f'pdb_cut_per_blade_{bladenbr}')))
