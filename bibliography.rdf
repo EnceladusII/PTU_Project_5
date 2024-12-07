@@ -1,0 +1,1049 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://www.cell.com/trends/biochemical-sciences/abstract/S0968-0004(99)01384-5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0968-0004"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Temple F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaitatzes</foaf:surname>
+                        <foaf:givenName>Chrysanthe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saxena</foaf:surname>
+                        <foaf:givenName>Kumkum</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neer</foaf:surname>
+                        <foaf:givenName>Eva J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_275"/>
+        <link:link rdf:resource="#item_274"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Biochemistry</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>G. Protein</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>WD repeat</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>β propeller</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The WD repeat: a common architecture for diverse functions</dc:title>
+        <dc:date>1999-05-01</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>The WD repeat</z:shortTitle>
+        <z:libraryCatalog>www.cell.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cell.com/trends/biochemical-sciences/abstract/S0968-0004(99)01384-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-21 15:19:24</dcterms:dateSubmitted>
+        <dc:description>Publisher: Elsevier
+PMID: 10322433</dc:description>
+        <bib:pages>181-185</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0968-0004">
+        <prism:volume>24</prism:volume>
+        <dc:title>Trends in Biochemical Sciences</dc:title>
+        <dc:identifier>DOI 10.1016/S0968-0004(99)01384-5</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>Trends in Biochemical Sciences</dcterms:alternative>
+        <dc:identifier>ISSN 0968-0004</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_275">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cell.com/article/S0968000499013845/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-21 15:19:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_274">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/10322433</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-21 15:19:25</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-0-387-09595-0">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-387-09595-0</dc:identifier>
+                <dc:title>The Coronin Family of Proteins: Subcellular Biochemistry</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York, NY</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Temple F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clemen</foaf:surname>
+                        <foaf:givenName>Christoph S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eichinger</foaf:surname>
+                        <foaf:givenName>Ludwig</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rybakin</foaf:surname>
+                        <foaf:givenName>Vasily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_297"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Beta Propeller</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Initiation Complex Formation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Multiple Protein Complex</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Repeat Protein</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Surface Amino Acid</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Diversity of WD-Repeat proteins</dc:title>
+        <dcterms:abstract>The WD-repeat-containing proteins form a very large family that is diverse in both its function and domain structure. Within all these proteins the WD-repeat domains are thought to have two common features: the domain folds into a beta propeller; and the domains form a platform without any catalytic activity on which multiple protein complexes assemble reversibly. The fact that these proteins play such key roles in the formation of protein-protein complexes in nearly all the major pathways and organelles unique to eukaryotic cells has two important implications. It supports both their ancient and proto eukaryotic origins and supports a likely association with many genetic diseases.</dcterms:abstract>
+        <dc:date>2008</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/978-0-387-09595-0_3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:34:49</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1007/978-0-387-09595-0_3</dc:description>
+        <bib:pages>20-30</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_297">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2F978-0-387-09595-0_3.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:34:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7377190/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1792-1074"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Zheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Qiangsheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Wenyan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Wensheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Mengqi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Qiqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ye</foaf:surname>
+                        <foaf:givenName>Zeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fan</foaf:surname>
+                        <foaf:givenName>Guixiong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qin</foaf:surname>
+                        <foaf:givenName>Yi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Xiaowu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Xianjun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ji</foaf:surname>
+                        <foaf:givenName>Shunrong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_300"/>
+        <link:link rdf:resource="#item_299"/>
+        <dc:title>Function and regulation of F-box/WD repeat-containing protein 7</dc:title>
+        <dcterms:abstract>The ubiquitin-proteasome system is an important post-translational modification system involved in numerous biological processes, such as cell cycle regulation, gene transcription, signal transduction, apoptosis, differentiation and development. F-box/WD repeat-containing protein 7 (FBXW7) is one of the most studied F-box (FBX) proteins, serving as substrate recognition component of S phase kinase-associated protein 1-Cullin 1-FBX protein complexes. As a tumor suppressor, FBXW7 recognizes numerous proto-oncoproteins and promotes their ubiquitination and subsequent proteasomal degradation. FBXW7 is regulated at different levels, leading to tunable and specific control of the activity and abundance of its substrates. Therefore, genetic mutations or decreases in its expression serve an important biological role in tumor development. In-depth studies and identification of additional substrates targeted by FBXW7 have suggested a signaling network regulated by FBXW7, including its tumor-inhibitory role. The present review focused on the role of FBXW7 in tumor suppression and its application in cancer therapy.</dcterms:abstract>
+        <dc:date>2020-8</dc:date>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7377190/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:35:18</dcterms:dateSubmitted>
+        <dc:description>PMID: 32724394
+PMCID: PMC7377190</dc:description>
+        <bib:pages>1526-1534</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1792-1074">
+        <prism:volume>20</prism:volume>
+        <dc:title>Oncology Letters</dc:title>
+        <dc:identifier>DOI 10.3892/ol.2020.11728</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Oncol Lett</dcterms:alternative>
+        <dc:identifier>ISSN 1792-1074</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_300">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC7377190/pdf/ol-20-02-1526.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:35:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_299">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7377190/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:35:18</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9716212/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1582-1838"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Bo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Ye‐wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenName>Kun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Chao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Qian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiang</foaf:surname>
+                        <foaf:givenName>Yi‐heng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Luo</foaf:surname>
+                        <foaf:givenName>Lu‐ling</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zuo</foaf:surname>
+                        <foaf:givenName>Shi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_303"/>
+        <link:link rdf:resource="#item_302"/>
+        <dc:title>WD repeat domain 48 promotes hepatocellular carcinoma progression by stabilizing c‐Myc</dc:title>
+        <dcterms:abstract>The role of protein members containing the WD40 repeat domain in many diseases, including cancer, is well documented. However, the role of WD repeat domain 48 (WDR48) in hepatocellular carcinoma (HCC) and its molecular basis remain to be further investigated. In the present study, we report that WDR48 is downregulated in clinical HCC samples and evaluate the relationship between its expression and clinical features of HCC. In vitro experiments showed that WDR48 positively regulated the proliferation, invasion and metastasis of HCC cells and in vivo experiments showed that downregulation of WDR48 significantly inhibited the tumorigenicity of HCC cells. Mechanistically, WDR48 binds to the proto‐oncogene transcriptional regulator c‐Myc and stabilizes c‐Myc expression by mediating its deubiquitination, thereby enhancing cell proliferation and EMT signalling. Our study demonstrates the oncogenic role of WDR48 and suggests that WDR48 can be an important target in HCC.</dcterms:abstract>
+        <dc:date>2022-12</dc:date>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9716212/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:38:12</dcterms:dateSubmitted>
+        <dc:description>PMID: 36403194
+PMCID: PMC9716212</dc:description>
+        <bib:pages>5755-5766</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1582-1838">
+        <prism:volume>26</prism:volume>
+        <dc:title>Journal of Cellular and Molecular Medicine</dc:title>
+        <dc:identifier>DOI 10.1111/jcmm.17583</dc:identifier>
+        <prism:number>23</prism:number>
+        <dcterms:alternative>J Cell Mol Med</dcterms:alternative>
+        <dc:identifier>ISSN 1582-1838</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_303">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pmc.ncbi.nlm.nih.gov/articles/PMC9716212/pdf/JCMM-26-5755.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:38:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_302">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9716212/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:38:13</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S1357272522001388">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1357-2725"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Haijun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Qi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qiu</foaf:surname>
+                        <foaf:givenName>Xie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Gongming</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Guanghui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Aimin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dai</foaf:surname>
+                        <foaf:givenName>Jianhua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_305"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CDK2</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cell cycle</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Lung cancer</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Non-small cell lung cancer</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>WDR43</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>WD repeat domain 43 promotes malignant progression of non-small cell lung cancer by regulating CDK2</dc:title>
+        <dcterms:abstract>Non-small cell lung cancer (NSCLC) ranks highly among malignant tumors in the world in terms of morbidity and mortality. By using bioinformatics, we screened and obtained a novel oncogene WDR43, a member of the WD-repeat protein encoding family that is closely related to tumor progression. PCR and immunohistochemistry showed that WDR43 is highly expressed in NSCLC. High WDR43 expression in NSCLC was associated with worse clinical symptoms and prognosis. Knocked down expression of WDR43 significantly impaired the migration and proliferation and cell-cycle arrest in G1 phase in NSCLC cell lines. WDR43 can directly interact with cyclin-dependent kinase 2 and induce the expression of cyclin proteins. Our results suggest that WDR43 is a promising target of protein–protein interaction inhibitors for treatment of NSCLC.</dcterms:abstract>
+        <dc:date>2022-10-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1357272522001388</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:38:37</dcterms:dateSubmitted>
+        <bib:pages>106293</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1357-2725">
+        <prism:volume>151</prism:volume>
+        <dc:title>The International Journal of Biochemistry &amp; Cell Biology</dc:title>
+        <dc:identifier>DOI 10.1016/j.biocel.2022.106293</dc:identifier>
+        <dcterms:alternative>The International Journal of Biochemistry &amp; Cell Biology</dcterms:alternative>
+        <dc:identifier>ISSN 1357-2725</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_305">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1357272522001388?via%3Dihub</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:38:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="https://doi.org/10.1007/978-0-387-09595-0_2">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-387-09595-0</dc:identifier>
+                <dc:title>The Coronin Family of Proteins: Subcellular Biochemistry</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York, NY</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hudson</foaf:surname>
+                        <foaf:givenName>Andrew M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cooley</foaf:surname>
+                        <foaf:givenName>Lynn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clemen</foaf:surname>
+                        <foaf:givenName>Christoph S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eichinger</foaf:surname>
+                        <foaf:givenName>Ludwig</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rybakin</foaf:surname>
+                        <foaf:givenName>Vasily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_307"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Coronin Protein</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Galactose Oxidase</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Horseshoe Crab</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Ring Domain Protein</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Substrate Adaptor</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Phylogenetic, Structural and Functional Relationships between WD- and Kelch-Repeat Proteins</dc:title>
+        <dcterms:abstract>The β-propeller domain is a widespread protein organizational motif. Typically, β-propeller proteins are encoded by repeated sequences where each repeat unit corresponds to a twisted β-sheet structural motif; these β-sheets are arranged in a circle around a central axis to generate the β-propeller structure. Two superfamilies of β-propeller proteins, the WD-repeat and Kelch-repeat families, exhibit similarities not only in structure, but, remarkably, also in the types of molecular functions they perform. While it is unlikely that WD and Kelch repeats evolved from a common ancestor, their evolution into diverse families of similar function may reflect the evolutionary advantages of the stable core β-propeller fold. In this chapter, we examine the relationships between these two widespread protein families, emphasizing recently published work relating to the structure and fucntion of both Kelch and WD-repeat proteins.</dcterms:abstract>
+        <dc:date>2008</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/978-0-387-09595-0_2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:40:12</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1007/978-0-387-09595-0_2</dc:description>
+        <bib:pages>6-19</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_307">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2F978-0-387-09595-0_2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:40:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_308">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>24</prism:volume>
+                <dc:title>Trends in Biochemical Sciences</dc:title>
+                <dc:identifier>DOI 10.1016/S0968-0004(99)01384-5</dc:identifier>
+                <prism:number>5</prism:number>
+                <dcterms:alternative>Trends in Biochemical Sciences</dcterms:alternative>
+                <dc:identifier>ISSN 0968-0004</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Temple F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaitatzes</foaf:surname>
+                        <foaf:givenName>Chrysanthe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saxena</foaf:surname>
+                        <foaf:givenName>Kumkum</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neer</foaf:surname>
+                        <foaf:givenName>Eva J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_310"/>
+        <link:link rdf:resource="#item_309"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Biochemistry</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>G. Protein</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>WD repeat</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>β propeller</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The WD repeat: a common architecture for diverse functions</dc:title>
+        <dc:date>1999-05-01</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>The WD repeat</z:shortTitle>
+        <z:libraryCatalog>www.cell.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cell.com/trends/biochemical-sciences/abstract/S0968-0004(99)01384-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:44:32</dcterms:dateSubmitted>
+        <dc:description>Publisher: Elsevier
+PMID: 10322433</dc:description>
+        <bib:pages>181-185</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_310">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cell.com/article/S0968000499013845/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:44:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_309">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/10322433</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-02 11:44:33</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1093/nar/gkae241">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0305-1048"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Madeira</foaf:surname>
+                        <foaf:givenName>Fábio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Madhusoodanan</foaf:surname>
+                        <foaf:givenName>Nandana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Joonheung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eusebi</foaf:surname>
+                        <foaf:givenName>Alberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niewielska</foaf:surname>
+                        <foaf:givenName>Ania</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tivey</foaf:surname>
+                        <foaf:givenName>Adrian R N</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lopez</foaf:surname>
+                        <foaf:givenName>Rodrigo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Butcher</foaf:surname>
+                        <foaf:givenName>Sarah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_312"/>
+        <link:link rdf:resource="#item_313"/>
+        <dc:title>The EMBL-EBI Job Dispatcher sequence analysis tools framework in 2024</dc:title>
+        <dcterms:abstract>The EMBL-EBI Job Dispatcher sequence analysis tools framework (https://www.ebi.ac.uk/jdispatcher) enables the scientific community to perform a diverse range of sequence analyses using popular bioinformatics applications. Free access to the tools and required sequence datasets is provided through user-friendly web applications, as well as via RESTful and SOAP-based APIs. These are integrated into popular EMBL-EBI resources such as UniProt, InterPro, ENA and Ensembl Genomes. This paper overviews recent improvements to Job Dispatcher, including its brand new website and documentation, enhanced visualisations, improved job management, and a rising trend of user reliance on the service from low- and middle-income regions.</dcterms:abstract>
+        <dc:date>2024-07-05</dc:date>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/nar/gkae241</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-03 09:27:49</dcterms:dateSubmitted>
+        <bib:pages>W521-W525</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0305-1048">
+        <prism:volume>52</prism:volume>
+        <dc:title>Nucleic Acids Research</dc:title>
+        <dc:identifier>DOI 10.1093/nar/gkae241</dc:identifier>
+        <prism:number>W1</prism:number>
+        <dcterms:alternative>Nucleic Acids Research</dcterms:alternative>
+        <dc:identifier>ISSN 0305-1048</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_312">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/52/W1/W521/58436149/gkae241.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-03 09:27:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_313">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article/52/W1/W521/7643289?login=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-03 09:27:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1093/nar/gkae410">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>52</prism:volume>
+                <dc:title>Nucleic Acids Research</dc:title>
+                <dc:identifier>DOI 10.1093/nar/gkae410</dc:identifier>
+                <prism:number>W1</prism:number>
+                <dcterms:alternative>Nucleic Acids Research</dcterms:alternative>
+                <dc:identifier>ISSN 0305-1048</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The Galaxy Community</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_315"/>
+        <dc:title>The Galaxy platform for accessible, reproducible, and collaborative data analyses: 2024 update</dc:title>
+        <dcterms:abstract>Galaxy (https://galaxyproject.org) is deployed globally, predominantly through free-to-use services, supporting user-driven research that broadens in scope each year. Users are attracted to public Galaxy services by platform stability, tool and reference dataset diversity, training, support and integration, which enables complex, reproducible, shareable data analysis. Applying the principles of user experience design (UXD), has driven improvements in accessibility, tool discoverability through Galaxy Labs/subdomains, and a redesigned Galaxy ToolShed. Galaxy tool capabilities are progressing in two strategic directions: integrating general purpose graphical processing units (GPGPU) access for cutting-edge methods, and licensed tool support. Engagement with global research consortia is being increased by developing more workflows in Galaxy and by resourcing the public Galaxy services to run them. The Galaxy Training Network (GTN) portfolio has grown in both size, and accessibility, through learning paths and direct integration with Galaxy tools that feature in training courses. Code development continues in line with the Galaxy Project roadmap, with improvements to job scheduling and the user interface. Environmental impact assessment is also helping engage users and developers, reminding them of their role in sustainability, by displaying estimated CO2 emissions generated by each Galaxy job.</dcterms:abstract>
+        <dc:date>2024-07-05</dc:date>
+        <z:shortTitle>The Galaxy platform for accessible, reproducible, and collaborative data analyses</z:shortTitle>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/nar/gkae410</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-03 09:30:07</dcterms:dateSubmitted>
+        <bib:pages>W83-W94</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_315">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/52/W1/W83/58436305/gkae410.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-03 09:30:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1093/nar/gks469">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>40</prism:volume>
+                <dc:title>Nucleic Acids Research</dc:title>
+                <dc:identifier>DOI 10.1093/nar/gks469</dc:identifier>
+                <prism:number>W1</prism:number>
+                <dcterms:alternative>Nucleic Acids Research</dcterms:alternative>
+                <dc:identifier>ISSN 0305-1048</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thomsen</foaf:surname>
+                        <foaf:givenName>Martin Christen Frølund</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nielsen</foaf:surname>
+                        <foaf:givenName>Morten</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_317"/>
+        <link:link rdf:resource="#item_318"/>
+        <dc:title>Seq2Logo: a method for construction and visualization of amino acid binding motifs and sequence profiles including sequence weighting, pseudo counts and two-sided representation of amino acid enrichment and depletion</dc:title>
+        <dcterms:abstract>Seq2Logo is a web-based sequence logo generator. Sequence logos are a graphical representation of the information content stored in a multiple sequence alignment (MSA) and provide a compact and highly intuitive representation of the position-specific amino acid composition of binding motifs, active sites, etc. in biological sequences. Accurate generation of sequence logos is often compromised by sequence redundancy and low number of observations. Moreover, most methods available for sequence logo generation focus on displaying the position-specific enrichment of amino acids, discarding the equally valuable information related to amino acid depletion. Seq2logo aims at resolving these issues allowing the user to include sequence weighting to correct for data redundancy, pseudo counts to correct for low number of observations and different logotype representations each capturing different aspects related to amino acid enrichment and depletion. Besides allowing input in the format of peptides and MSA, Seq2Logo accepts input as Blast sequence profiles, providing easy access for non-expert end-users to characterize and identify functionally conserved/variable amino acids in any given protein of interest. The output from the server is a sequence logo and a PSSM. Seq2Logo is available at http://www.cbs.dtu.dk/biotools/Seq2Logo (14 May 2012, date last accessed).</dcterms:abstract>
+        <dc:date>2012-07-01</dc:date>
+        <z:shortTitle>Seq2Logo</z:shortTitle>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/nar/gks469</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-03 09:31:02</dcterms:dateSubmitted>
+        <bib:pages>W281-W287</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_317">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article-pdf/40/W1/W281/18783813/gks469.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-03 09:31:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_318">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/nar/article/40/W1/W281/1076274</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-03 09:31:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1093/bioinformatics/btp033">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1367-4803"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Waterhouse</foaf:surname>
+                        <foaf:givenName>Andrew M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Procter</foaf:surname>
+                        <foaf:givenName>James B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>David M. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clamp</foaf:surname>
+                        <foaf:givenName>Michèle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>Geoffrey J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_320"/>
+        <link:link rdf:resource="#item_321"/>
+        <dc:title>Jalview Version 2—a multiple sequence alignment editor and analysis workbench</dc:title>
+        <dcterms:abstract>Summary: Jalview Version 2 is a system for interactive WYSIWYG editing, analysis and annotation of multiple sequence alignments. Core features include keyboard and mouse-based editing, multiple views and alignment overviews, and linked structure display with Jmol. Jalview 2 is available in two forms: a lightweight Java applet for use in web applications, and a powerful desktop application that employs web services for sequence alignment, secondary structure prediction and the retrieval of alignments, sequences, annotation and structures from public databases and any DAS 1.53 compliant sequence or annotation server.Availability: The Jalview 2 Desktop application and JalviewLite applet are made freely available under the GPL, and can be downloaded from www.jalview.orgContact:  g.j.barton@dundee.ac.uk</dcterms:abstract>
+        <dc:date>2009-05-01</dc:date>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1093/bioinformatics/btp033</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-07 12:44:46</dcterms:dateSubmitted>
+        <bib:pages>1189-1191</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1367-4803">
+        <prism:volume>25</prism:volume>
+        <dc:title>Bioinformatics</dc:title>
+        <dc:identifier>DOI 10.1093/bioinformatics/btp033</dc:identifier>
+        <prism:number>9</prism:number>
+        <dcterms:alternative>Bioinformatics</dcterms:alternative>
+        <dc:identifier>ISSN 1367-4803</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_320">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/bioinformatics/article-pdf/25/9/1189/48984859/bioinformatics_25_9_1189.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-07 12:44:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_321">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/bioinformatics/article/25/9/1189/203460?login=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-07 12:44:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/EnceladusII/PTU_Project_5">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guillaume</foaf:surname>
+                        <foaf:givenName>Wittenmeyer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>EnceladusII/PTU_Project_5</dc:title>
+        <dcterms:abstract>M2BBS from University of Strasbourg PTU Project 5 about the study of the WD repeats</dcterms:abstract>
+        <dc:date>2024-12-07T12:37:39Z</dc:date>
+        <z:libraryCatalog>GitHub</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/EnceladusII/PTU_Project_5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-07 12:45:06</dcterms:dateSubmitted>
+        <dc:description>original-date: 2024-10-24T19:40:33Z</dc:description>
+        <z:programmingLanguage>Python</z:programmingLanguage>
+    </bib:Data>
+</rdf:RDF>

@@ -29,8 +29,9 @@ Collaboration with **Project 3** is possible, allowing the exploration of furthe
 Check ~/lab_notebook.odt  
 
 Conda environment parameter (available at ~/common/scripts/wd_repeat.yml) :
-
-	python -- version = 3.9.20
+    
+    conda --version = 24.9.2
+	python --version = 3.9.20
 
 		Package             Version
 	------------------- -----------
