@@ -50,7 +50,27 @@ def graphs(fpath=str, fname=str):
     plt.savefig(fpath / output_fname)
     plt.show()
 
+def avg(fpath=str, fname=str):
+    """
+        Function to return the avg of RMSD and atom take in count during the superimposition containing  in the 'RMSD.txt' generated file of super_structure()
+            fname = folder path of the 'RMSD.txt' file (str)
+    """
+    # To stock the number of atom take in count and the rmsd for each superimposition in the file
+    nbr_at=0
+    rmsd=0
+    count=0
+    # Found and store the number of atoms take in count and the RMSD
+    with open(fpath / fname, 'r') as f:
+       lines=f.readlines()
+       for i in range(0, len(lines), 3):
+            count+=1
+            nbr_at+=int(lines[i+1])
+            rmsd+=float(lines[i+2])
+
+    return nbr_at/count, rmsd/count, count
+
 # Executing process:
 for bladenbr in range(1,8):
     for f in find_rmsd_txtfiles(txtpath / f'pdb_cut_per_blade_{bladenbr}'):
         graphs(txtpath / f'pdb_cut_per_blade_{bladenbr}', f)
+        print(bladenbr, avg(txtpath / f'pdb_cut_per_blade_{bladenbr}', f))
